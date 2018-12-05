@@ -1,0 +1,1 @@
+Colocar o Data e Resources no dist\game e rodar com o .exe se não tiver o python instalado no computador caso contrario iniciar pelo game.py
